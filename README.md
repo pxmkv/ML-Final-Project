@@ -3,7 +3,6 @@
 ---
 
 ## 1. Pre-planning (October 1 - October 24)
-* **Team formation**: Collaborate with peers to form teams of five students.
 * **Topic brainstorming**: Discuss potential datasets and the techniques from class.
 
 ---
