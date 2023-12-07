@@ -1,4 +1,4 @@
-# Movie Gross Prediction Project
+# Movie Gross Prediction
 
 ## Overview
 
